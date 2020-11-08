@@ -1,2 +1,3 @@
 # PythonLevel3
 Intro to AI with Python Level 3...
+This is going to be a resource for CGHS Python upskilling with the use of github for Catriona Nicholls
